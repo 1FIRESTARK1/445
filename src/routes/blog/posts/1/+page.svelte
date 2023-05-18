@@ -1,5 +1,5 @@
 <h1>My First Blog Post</h1>
 
-p.lorem200 (emmet абзаца с текстом заполнителем)
+'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
 
-p.lorem200 (emmet абзаца с текстом заполнителем)
+'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
