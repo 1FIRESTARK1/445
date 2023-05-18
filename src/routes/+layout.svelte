@@ -14,7 +14,6 @@
   </nav>
 
   <div class="container">
-    <!-- Pages will be injected below -->
     <slot></slot>
   </div>
   <script>
