@@ -1,3 +1,9 @@
+<div class="todos">
+  {#each todoList as item, index}
+    <span class="todo__text">{item.task}</span>
+      <div class="todo__buttons"></div>
+  {/each}
+</div>
 
 <script>
     let newItem = '';
@@ -14,25 +20,14 @@ function add() {
     newItem = '';
   }
 }
-Icon.svelte
-import Icon from '../../../../components/Icon.svelte';
-function remove(index) {
-  todoList.splice(index, 1);
-  todoList = todoList;
-}
-function complete(index) {
-  todoList[index].completed = !todoList[index].completed;
-}
-
 </script>
-<h1>My to-do list</h1>
 <main>
     <form on:submit|preventDefault={add}>
         <input bind:value={newItem} placeholder="Enter to-do" />
         <button class="add-todo" on:click={add}><span>+</span></button>
       </form>      
 </main>
-<h1>My to-do list</h1>
+<h1>My to-do</h1>
 <style>
   main {
   display: flex;
@@ -96,31 +91,5 @@ h1 {
   margin: 2em 0;
 }
 
-button {
-  background-color: transparent;
-  border: none;
-}
-
-button.delete,
-button.delete:hover {
-  color: brown;
-  transition: color 100ms ease-out;
-}
-button.complete,
-button.complete:hover {
-  color: cadetblue;
-  transition: color 100ms ease-out;
-}
-.todo.completed {
-  color: slategray;
-}
-
-.todo.completed .todo__text {
-  text-decoration: line-through;
-}
-
-.todo.completed button {
-  color: silver;
-}
 
 </style>
