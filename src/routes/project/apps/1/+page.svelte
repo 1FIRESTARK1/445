@@ -23,7 +23,7 @@
 </main>
 
 <script>
-import Icon from '../../../../components/Icon.svelte'
+import Icon from '../../../components/Icon.svelte'
 
 let newItem = "";
 let todoList = [];
