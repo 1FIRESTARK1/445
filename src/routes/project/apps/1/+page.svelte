@@ -27,6 +27,7 @@ function add() {
         <button class="add-todo" on:click={add}><span>+</span></button>
       </form>      
 </main>
+<h1>My to-do list</h1>
 <style>
   main {
   display: flex;
@@ -89,5 +90,6 @@ h1 {
   font-size: 1.5rem;
   margin: 2em 0;
 }
+
 
 </style>
