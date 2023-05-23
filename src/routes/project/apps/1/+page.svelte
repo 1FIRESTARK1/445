@@ -21,13 +21,13 @@ function add() {
   }
 }
 </script>
+<h1>My to-do list</h1>
 <main>
     <form on:submit|preventDefault={add}>
         <input bind:value={newItem} placeholder="Enter to-do" />
         <button class="add-todo" on:click={add}><span>+</span></button>
       </form>      
 </main>
-<h1>My to-do</h1>
 <style>
   main {
   display: flex;
