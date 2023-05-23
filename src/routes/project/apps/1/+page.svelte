@@ -120,56 +120,35 @@ h1 {
 
 
 button {
-		cursor: pointer;
-	}
+  background-color: transparent;
+  border: none;
+}
 
-  	button.add-todo {
-		width: 2rem;
-		height: 2rem;
-		margin: 0;
-		background: transparent;
-		border: 1px solid black;
-		border-radius: 100%;
-		flex-shrink: 0;
-		margin-left: 1rem;
-		cursor: pointer;
-	}
+button.delete,
+button.delete:hover {
+  color: brown;
+  transition: color 100ms ease-out;
+}
+button.complete,
+button.complete:hover {
+  color: cadetblue;
+  transition: color 100ms ease-out;
+}
 
-	button.add-todo span {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		line-height: 0;
-	}
-	h1 {
-		text-align: center;
-		font-size: 1.5rem;
-		margin: 2em 0;
-	}
-	button {
-		background-color: transparent;
-		border: none;
-	}
+.todo.completed {
+  color: slategray;
+}
 
-	button.delete,
-	button.delete:hover {
-		color: brown;
-		transition: color 100ms ease-out;
-	}
-	button.complete,
-	button.complete:hover {
-		color: cadetblue;
-		transition: color 100ms ease-out;
-	}
-	.todo.completed {
-		color: slategray;
-	}
+.todo.completed .todo__text {
+  text-decoration: line-through;
+}
 
-	.todo.completed .todo__text {
-		text-decoration: line-through;
-	}
+.todo.completed button {
+  color: silver;
+}
+.todos {
+  width: 100%;
+  max-width: 500px;
+}
 
-	.todo.completed button {
-		color: silver;
-	}
 </style>
