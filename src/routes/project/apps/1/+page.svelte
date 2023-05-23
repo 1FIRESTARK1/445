@@ -1,9 +1,3 @@
-<div class="todos">
-  {#each todoList as item, index}
-    <span class="todo__text">{item.task}</span>
-      <div class="todo__buttons"></div>
-  {/each}
-</div>
 
 <script>
     let newItem = '';
@@ -31,15 +25,8 @@ function complete(index) {
 }
 
 </script>
+<h1>My to-do list</h1>
 <main>
-  <div class="todo__buttons">
-    <button class="complete" on:click={() => complete(index)}>
-      <Icon name="check-mark" />
-    </button>
-    <button class="delete" on:click={() => remove(index)}>
-      <Icon name="delete" />
-    </button>
-  </div>
     <form on:submit|preventDefault={add}>
         <input bind:value={newItem} placeholder="Enter to-do" />
         <button class="add-todo" on:click={add}><span>+</span></button>
