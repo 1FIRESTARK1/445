@@ -21,7 +21,7 @@
    <tr>
     <td><div>{expense.name}</div> </td>
     <td><div>{expense.amount}</div> </td>
-    <td><button on:click={() => deleteExpense(i)}>РЈРґР°Р»РёС‚СЊ</button></td>
+    <td><button on:click={() => deleteExpense(i)}>Удалить</button></td>
    </tr>
   {/each}
  </tbody>
@@ -69,7 +69,7 @@
  }
  th,
  td {
-  border: 1px solid #ccc;
+  border: 1px solid #f19797;
   padding: 8px;
   text-align: left;
  }
@@ -78,7 +78,7 @@
  }
  button {
   padding: 5px 10px;
-  background-color: #4caf50;
+  background-color: #9e0f0f;
   color: white;
   border: none;
   border-radius: 5px;
