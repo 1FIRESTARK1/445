@@ -1,11 +1,11 @@
-<h1>РЈС‡РµС‚ СЂР°СЃС…РѕРґРѕРІ</h1>
+<h1>Учёрт расходов</h1>
 
 <form on:submit|preventDefault={addExpense}>
- <label for="name">РќР°Р·РІР°РЅРёРµ:</label>
+ <label for="name">Название:</label>
  <input type="text" id="name" bind:value={newName} />
- <label for="amount">РЎСѓРјРјР°:</label>
+ <label for="amount">Сумма:</label>
  <input type="text" id="amount" bind:value={newAmount} />
- <button type="submit">Р”РѕР±Р°РІРёС‚СЊ</button>
+ <button type="submit"></button>
 </form>
 
 <table>
