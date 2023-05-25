@@ -5,15 +5,15 @@
  <input type="text" id="name" bind:value={newName} />
  <label for="amount">Сумма:</label>
  <input type="text" id="amount" bind:value={newAmount} />
- <button type="submit"></button>
+ <button type="submit">Добавить</button>
 </form>
 
 <table>
  <thead>
   <tr>
-   <th>РќР°Р·РІР°РЅРёРµ</th>
-   <th>РЎСѓРјРјР°</th>
-   <th>Р”РµР№СЃС‚РІРёСЏ</th>
+   <th>Название</th>
+   <th>Сумма</th>
+   <th>Действия</th>
   </tr>
  </thead>
  <tbody>
