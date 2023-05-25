@@ -1,5 +1,5 @@
 <h1>Сайт</h1>
-<button type="submit" a href="https://classy-clafoutis-5890a5.netlify.app">перейти</button>
+<button type="submit"><a href="https://classy-clafoutis-5890a5.netlify.app">перейти</button>
 <style>
     button {
   padding: 5px 10px;
