@@ -69,12 +69,12 @@
  }
  th,
  td {
-  border: 1px solid #ff6464;
+  border: 1px solid #f33f3f;
   padding: 8px;
   text-align: left;
  }
  th {
-  background-color: #921d1d;
+  background-color: #949090;
  }
  button {
   padding: 5px 10px;
