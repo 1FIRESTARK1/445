@@ -60,12 +60,12 @@
   border: 1px solid #f19797;
   border-radius: 5px;
   margin-right: 10px;
-  width: 150px;
+  width: 300px;
  }
  table {
   margin-top: 20px;
   border-collapse: collapse;
-  width: 100%;
+  width: 300px;
  }
  th,
  td {
