@@ -57,7 +57,7 @@
  }
  input[type='text'] {
   padding: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #f19797;
   border-radius: 5px;
   margin-right: 10px;
   width: 150px;
@@ -69,7 +69,7 @@
  }
  th,
  td {
-  border: 1px solid #f19797;
+  border: 1px solid #ff6464;
   padding: 8px;
   text-align: left;
  }
