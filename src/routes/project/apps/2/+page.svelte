@@ -65,7 +65,7 @@
  table {
   margin-top: 20px;
   border-collapse: collapse;
-  width: 50%;
+  width: 75%;
  }
  th,
  td {
