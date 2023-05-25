@@ -74,7 +74,7 @@
   text-align: left;
  }
  th {
-  background-color: #949090;
+  background-color: #d3c7c7;
  }
  button {
   padding: 5px 10px;
