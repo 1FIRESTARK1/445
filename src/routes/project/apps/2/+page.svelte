@@ -60,7 +60,7 @@
   border: 1px solid #f19797;
   border-radius: 5px;
   margin-right: 10px;
-  width: 700px;
+  width: 150px;
  }
  table {
   margin-top: 20px;
