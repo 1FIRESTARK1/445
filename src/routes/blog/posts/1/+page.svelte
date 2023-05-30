@@ -1,5 +1,4 @@
-<h1>My First Blog Post</h1>
+<h1>Как я начал создавать свои сайты</h1>
+начиная с 1 сентября, я начал ходить на web разработку. По началу было очень тяжело, но под конец года мне становилось всё легче и легче. Думаю доделать свой сайт в будущем, чтобы всем помогать в играх.
 
-'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
-
-'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+начиная с 1 сентября, я начал ходить на web разработку. По началу было очень тяжело, но под конец года мне становилось всё легче и легче. Думаю доделать свой сайт в будущем, чтобы всем помогать в играх.
