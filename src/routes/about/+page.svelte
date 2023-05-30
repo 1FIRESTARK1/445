@@ -8,3 +8,11 @@
 Возраст: 16 лет
 Дата рождения: 22.05.2007
 Увлечения: WEB разработка, бокс</p>
+
+<style>
+    .photo{
+        float: right;
+        margin: 2px;
+        border-radius: 4px;
+    }
+</style>
