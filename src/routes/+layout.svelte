@@ -54,7 +54,7 @@ const nav = [
       margin: 50px auto;
     }
 
-    .background{
+    .background-up{
     border: 1px solid #ddd;
     box-shadow: 0 0 10px #eee;
     background: #ec3030;
