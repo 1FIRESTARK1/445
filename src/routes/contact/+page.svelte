@@ -14,10 +14,10 @@
             <form method="post" action="">
 
                 <label for="author"><br>Ваше имя:</label>
-                <input type="text" name="name" pattern="[А-Яа-яЁё]{4,}" title="Имя должно быть на русском. Пример: Степа, Петя, Вася, Оля" class="required input_field" />
+                <input type="text" name="name" pattern="[А-Яа-яЁё]" title="Имя должно быть на русском. Пример: Степа, Петя, Вася, Оля" class="required input_field" />
 
                 <label for="email"><br>Ваш Email:</label>
-                <input type="text" name="email" pattern="([A-z0-9_.-]{1,})@([A-z0-9_.-]{1,}).([A-z]{2,8})" title="Пример: bloggood@mail.ru" class="validate-email required input_field" required />
+                <input type="text" name="email" pattern="([A-z0-9_.-])@([A-z0-9_.-].([A-z]{2,8})" title="Пример: bloggood@mail.ru" class="validate-email required input_field" required />
 
                 <label for="text"><br>Ваш вопрос:</label>
                 <textarea name="quest" rows="0" cols="0" class="required"></textarea>
