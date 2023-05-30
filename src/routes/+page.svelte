@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>РРјСЏ Р¤Р°РјРёР»РёСЏ</title>
+    <title>Главная</title>
 </svelte:head>
 
 <div class="container">
