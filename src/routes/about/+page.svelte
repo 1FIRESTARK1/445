@@ -1,4 +1,4 @@
 <h1>Обо мне</h1>
-<img class="photo" src="photo/Myphoto.jpg" alt="photo" width="200" />
+<img src="photo/Myphoto.jpg" alt="icon">
 
 Всем здравствуйте! Меня зовут Пётр и тут вы найдете информацию обо мне, а так же сможете просмотреть мои работы.
