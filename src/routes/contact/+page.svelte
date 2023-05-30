@@ -1,5 +1,7 @@
+<svelte:head>
+ <title>контакты</title>
+</svelte:head>
 <body>
-    <title>Контакты</title>
 <div class="div3">
     <h2>Контактная информация</h2>
 </div>

@@ -1,4 +1,6 @@
-<title>обо мне</title>
+<svelte:head>
+ <title>Обо мне</title>
+</svelte:head>
 <h1>Обо мне</h1>
 <img class="photo" src="/img/photo.jpg" alt="photo" width="400" />
 
