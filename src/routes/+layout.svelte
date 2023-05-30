@@ -55,8 +55,8 @@ const nav = [
     }
 
     .background-up{
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px #eee;
+    border: 1px solid #39f30a;
+    box-shadow: 0 0 10px #ad2e2e;
     background: #ec3030;
     width: 100px;
     }
