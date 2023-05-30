@@ -8,12 +8,14 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                    <p class="animate-text-1">Lorem ipsum dolor sit,</p>
-                    <p class="text-2">Lorem ipsum dolor sit amet.</p>
+                    <p class="animate-text-1">Личный сайт</p>
+                    <p class="text-2">Стамова Петра.</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                Всех приветствую! На этом сайте вы узнаете кто я такой и чем увлекаюсь.
+                    Для меня долгое время было загадкой, как что-то очень дорогое и технологичное может быть столь бесполезным. И вскоре я осознал, что компьютер — это глупая машина, обладающая способностями выполнять невероятно умные вещи, тогда как программисты — это умные люди, у которых талант делать невероятные глупости. Короче, они нашли друг друга.
+
+                    Bill Bryson
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Click Here</a><div class="arrow">в†’</div>
