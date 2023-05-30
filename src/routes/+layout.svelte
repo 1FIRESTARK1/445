@@ -49,16 +49,11 @@ const nav = [
 </script>
 
   <style>
-    .container {
-      max-width: 1400px;
-      margin: 50px auto;
-    }
-
     .background-up{
     border: 1px solid #39f30a;
     box-shadow: 0 0 10px #ad2e2e;
     background: #ec3030;
-    width: 300px;
+    width: 100px;
     }
   </style>
   
