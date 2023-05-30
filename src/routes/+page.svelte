@@ -13,7 +13,7 @@
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                Всех приветствую! На этом сайте вы узнаете кто я такой и чем увлекаюсь.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Click Here</a><div class="arrow">в†’</div>
