@@ -1,5 +1,6 @@
 <nav>
     <div class="nav-container">
+    <div class="background-up"></div>
       <a href="/" class="nav-logo" title="Back to Homepage">Пётр Стамов</a>
       <div class="nav-links">
        
@@ -16,14 +17,6 @@
   <div class="container">
     <slot></slot>
   </div>
-  <style>
-        .background-up{
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px #eee;
-    background: #e72121;
-    width: 100%;
-    }
-  </style>
   <script>
 const nav = [
   {
@@ -54,4 +47,18 @@ const nav = [
 ];
 
 </script>
+
+  <style>
+    .container {
+      max-width: 1400px;
+      margin: 50px auto;
+    }
+
+    .background{
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px #eee;
+    background: #ec3030;
+    width: 100px;
+    }
+  </style>
   
