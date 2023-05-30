@@ -58,7 +58,7 @@ const nav = [
     border: 1px solid #39f30a;
     box-shadow: 0 0 10px #ad2e2e;
     background: #ec3030;
-    width: auto;
+    width: 300px;
     }
   </style>
   
