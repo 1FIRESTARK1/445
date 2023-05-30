@@ -16,6 +16,14 @@
   <div class="container">
     <slot></slot>
   </div>
+  <style>
+        .background-up{
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px #eee;
+    background: #e72121;
+    width: 100%;
+    }
+  </style>
   <script>
 const nav = [
   {
@@ -46,17 +54,4 @@ const nav = [
 ];
 
 </script>
-
-  <style>
-    .container {
-      max-width: 1400px;
-      margin: 50px auto;
-    }
-    .background-up{
-    border: 1px solid #ddd;
-    box-shadow: 0 0 10px #eee;
-    background: #e72121;
-    width: 100%;
-    }
-  </style>
   
