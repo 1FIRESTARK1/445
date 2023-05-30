@@ -18,7 +18,7 @@
                     Bill Bryson
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Click Here</a><div class="arrow">в†’</div>
+                    <a href="/about">Обо мне</a><div class="arrow"></div>
                 </div>
             </div>
         </div>
