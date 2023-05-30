@@ -38,7 +38,7 @@
 
         <h4 class="title">Наше место нахождения</h4>
         <br>
-        <div class="a:link"><span></span><a href="http://maps.google.com" target="_blank"><img src="photo/map_thumb.jpg" alt="Image" /></a></div>
+        <div class="a:link"><span></span><a href="http://maps.google.com" target="_blank"><img src="/img/google.jpg" alt="Image" /></a></div>
         <div class="cleaner h30"></div>
         <br>
         <h4 class="title">Наш адрес</h4>
