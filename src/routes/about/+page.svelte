@@ -1,3 +1,4 @@
+<title>обо мне</title>
 <h1>Обо мне</h1>
 <img class="photo" src="/img/photo.jpg" alt="photo" width="400" />
 
